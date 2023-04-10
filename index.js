@@ -8,8 +8,9 @@ const app = express();
 const port = process.env.PORT || 3001;
 const http = require("http").Server(app);
 const passport = require("passport");
-require("./auth/discord");
+const db = require("./models/user");
 require("./bot");
+require("./auth/discord");
 require("dotenv").config();
 mongoose
   .connect(process.env.MONGO, {
@@ -38,6 +39,13 @@ app.use("/api/auth", require("./api/auth/discord"));
 
 app.get("/", async (req, res) => {
   if (req.user) {
+    if (req.headers["x-forwarded-for"])
+      db.findOneAndUpdate(
+        { id: req.user.id },
+        {
+          ip: req.headers["x-forwarded-for"],
+        }
+      );
     res.send(
       `Hello ${req.user.username}.\nYou are authorized, you can now close this page.`
     );

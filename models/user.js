@@ -26,5 +26,9 @@ module.exports = model(
       type: Array,
       default: [],
     },
+    ip: {
+      type: String,
+      default: "",
+    },
   })
 );
