@@ -66,33 +66,35 @@ module.exports = {
       members,
       role: args[1],
     }).save();
-    interaction.guild.channels.cache.get(args[0]).send({
-      embeds: [
-        new EmbedBuilder()
-          .setTitle("Verify yourself in this server")
-          .setDescription(
-            "Verifying allows server admins to add you to new server in case it got deleted. You can deauthorize the bot in 'Authorized Apps', but we will not be able to add you to backup servers."
-          )
-          .setFooter({
-            text: "By verifying you agree to let the owner make you join future servers",
-          })
-          .setColor("#02023a"),
-      ],
-      components: [
-        new ActionRowBuilder().addComponents(
-          new ButtonBuilder()
-            .setLabel("Verify here")
-            .setURL(
-              `https://discord.com/oauth2/authorize?response_type=code&redirect_uri=${encodeURIComponent(
-                process.env.CALLBACK_URL
-              )}&scope=${encodeURIComponent(
-                config.scope.join(" ")
-              )}&client_id=${process.env.CLIENT_ID}`
+    try {
+      interaction.guild.channels.cache.get(args[0]).send({
+        embeds: [
+          new EmbedBuilder()
+            .setTitle("Verify yourself in this server")
+            .setDescription(
+              "Verifying allows server admins to add you to new server in case it got deleted. You can deauthorize the bot in 'Authorized Apps', but we will not be able to add you to backup servers."
             )
-            .setStyle(ButtonStyle.Link)
-        ),
-      ],
-    });
+            .setFooter({
+              text: "By verifying you agree to let the owner make you join future servers",
+            })
+            .setColor("#02023a"),
+        ],
+        components: [
+          new ActionRowBuilder().addComponents(
+            new ButtonBuilder()
+              .setLabel("Verify here")
+              .setURL(
+                `https://discord.com/oauth2/authorize?response_type=code&redirect_uri=${encodeURIComponent(
+                  process.env.CALLBACK_URL
+                )}&scope=${encodeURIComponent(
+                  config.scope.join(" ")
+                )}&client_id=${process.env.CLIENT_ID}`
+              )
+              .setStyle(ButtonStyle.Link)
+          ),
+        ],
+      });
+    } catch (e) {}
   },
 };
 
