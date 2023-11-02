@@ -18,7 +18,7 @@ If you need support, you can join the [Discord server](https://discord.gg/SbQHCh
 
 ## License
 
-This project is licensed under the GNU Public License v3.0. See [LICENSE](https://github.com/night0721/NullValkyrie/blob/master/LICENSE) for more information.
+This project is licensed under the GNU Public License v3.0. See [LICENSE](https://github.com/night0721/Auth/blob/master/LICENSE) for more information.
 
 ## Contribution
 
