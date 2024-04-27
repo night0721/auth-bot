@@ -11,8 +11,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 Tick these boxes in SCOPES:
 - bot
-- applications.commands
-
+- applications.commands\
 Tick these boxes in BOT PERMISSIONS:
 - Manage Server
 - Manage Roles
