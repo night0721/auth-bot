@@ -10,8 +10,8 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 ### 3. Set the permissions as below (OAuth2 Tab)
 Tick these boxes in SCOPES:
 - bot
-- applications.commands\
-Tick these boxes in BOT PERMISSIONS:
+- applications.commands
+\Tick these boxes in BOT PERMISSIONS:
 - Manage Server
 - Manage Roles
 - Manage Channels
