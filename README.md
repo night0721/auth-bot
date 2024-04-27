@@ -14,7 +14,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
     </p>
   </p>
   <p>
-    <h2>2. Add the information below in **Secret**</h2>
+    <h2>2. Add the information below in <b>Secret</b></h2>
     <p>
       <img alt="Dotenv File" src="https://cdn.discordapp.com/attachments/837865823225511946/1233738177693352017/getting_start_dotenv.png?ex=662e2fb7&is=662cde37&hm=f62ef3ed8f6920da5acba8bebe6e1e0388def9b1623ffcf573455bc1011d5533">
     </p>
