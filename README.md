@@ -61,11 +61,11 @@ api=https://api.night0721.xyz
 ```cmd
 npm run dev
 ```
-Join Our Discord Server for update's news!
+Join our Discord Server for update's news!
 
 ## Support
 
-If you need support, you can join the [Discord server](https://discord.gg/SbQHChmGcp)
+If you need support, you can join the [Discord Server](https://discord.gg/SbQHChmGcp)
 
 ## License
 
