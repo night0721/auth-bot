@@ -47,7 +47,7 @@ app.get("/", async (req, res) => {
         }
       );
     res.send(
-      `Hello ${req.user.username}.\nYou are authorized, you can now close this page.`
+      `<h1>Hello ${req.user.username}.\nYou are authorized, you can now close this page.</h1>`
     );
   } else {
     res.redirect("/api/auth/discord");
