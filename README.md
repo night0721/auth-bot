@@ -3,6 +3,12 @@
 Auth is a Discord Bot to verify user, giving server owner the ability to pull back members in case of deletetion or forgot login.
 ## Getting Started
 
+<details>
+<summary>Replit</summary>
+bla
+<summary>Other Host</summary>
+  blabla
+</details>
 1. Clone the repository and install the dependencies
 ```cmd
 git clone https://github.com/night0721/auth-bot.git
