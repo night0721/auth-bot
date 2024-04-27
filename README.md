@@ -4,7 +4,16 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 ## Getting Started
 
 To get started with the project, simply clone the repository and install the dependencies
-
+Create a **.env** file or add in **Secret** if you are using [Replit](https://replit.com)
+```
+TOKEN=XXX
+MONGO=mongodb+srv://XXX
+CLIENT_ID=XXX
+CLIENT_SECRET=XXX
+CALLBACK_URL=http://XXX.XXX/api/auth/discord/redirect
+api=https://api.night0721.xyz
+PORT=XXX
+```
 ```cmd
 git clone https://github.com/night0721/Auth.git
 cd Auth
