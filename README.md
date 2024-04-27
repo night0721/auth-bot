@@ -28,7 +28,7 @@ Then, use the Link below to invite your bot into Servers.
 Go to Overview > Data Services > Connect > Drivers.
 Copy the code in Step 3\
 ![Mongo](https://cdn.discordapp.com/attachments/837865823225511946/1233734792621723738/getting_start_mongo.png?ex=662e2c90&is=662cdb10&hm=27b9e02e2b8268d551010f0ed67536c74b49f012ca4c2ee330f6f7e591e6b7d2)
-### 5. Choose whcih host you are using
+### 5. Choose the host you are using
 - [Replit](#Replit)
 - [Other Host](#Other-Host)
 
