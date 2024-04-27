@@ -10,17 +10,18 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 ### 3. Set the permissions as below (OAuth2 Tab)
 Tick the boxes below:
 1. SCOPES
-- bot
-- applications.commands
+   - bot
+   - applications.commands
 2.BOT PERMISSIONS
-- Manage Server
-- Manage Roles
-- Manage Channels
-- Create Instant Invite
-- Read Messages/View Channels
-- Send Messages
-- Manage Messages
-- Read Message History
+   - Manage Server
+   - Manage Roles
+   - Manage Channels
+   - Create Instant Invite
+   - Read Messages/View Channels
+   - Send Messages
+   - Manage Messages
+   - Read Message History
+Then, use the Link below to invite your bot into Servers.
 ## Replit
 ### 1. Create a new project by importing from github
 ![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
