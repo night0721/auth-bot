@@ -4,7 +4,8 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 # Getting Start
 
-### 1. Create a bot and copy TOKEN, CLIENT ID and CLIENT SECRET in [Discord Developer Portal](https://discord.com/developers/applications) (Bot Tab, OAuth2 Tab)
+### 1. Create a bot in [Discord Developer Portal](https://discord.com/developers/applications)
+Copy TOKEN, CLIENT ID and CLIENT SECRET (Bot Tab, OAuth2 Tab)\
 ![Discord Token](https://cdn.discordapp.com/attachments/837865823225511946/1233736241376137216/getting_start_token.png?ex=662e2de9&is=662cdc69&hm=a1199ad3f800c61f5b6686a6279e93962db3046bd78e194d1643cbeafcf1c6df)
 ![Discord Client](https://cdn.discordapp.com/attachments/837865823225511946/1233736241040850984/getting_start_client.png?ex=662e2de9&is=662cdc69&hm=31b6679d650abf2706fd9c1994e8844a91904c13cf33bfee527796ff105ee027)
 
@@ -37,8 +38,8 @@ Tick these boxes in BOT PERMISSIONS:
 
 Then, use the link at the bottom to invite your bot to Servers.
 ### 5. Setting up database
-Create a [Mongo Database](https://mongodb.com)
-Go to Overview > Data Services > Connect > Drivers.
+Create a [Mongo Database](https://mongodb.com)\
+Go to Overview > Data Services > Connect > Drivers.\
 Copy the code in Step 3\
 ![Mongo](https://cdn.discordapp.com/attachments/837865823225511946/1233734792621723738/getting_start_mongo.png?ex=662e2c90&is=662cdb10&hm=27b9e02e2b8268d551010f0ed67536c74b49f012ca4c2ee330f6f7e591e6b7d2)
 ### 6. Choose the host you are using
