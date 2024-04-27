@@ -1,9 +1,11 @@
 # Auth
 Auth is a Discord Bot to verify user, giving server owner the ability to pull back members in case of deletetion or forgot login.
 
+# Getting Start
+
 ## Replit
 ### 1. Create a new project by importing from github
-bla
+![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233747226040471615/getting_start_import.png?ex=662e3824&is=662ce6a4&hm=3d22e6a762c8c5f70f35d430ded0cab9c84cabab94715442348b117cbe9fb77c)
 ### 2. Add the information below in Secret
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
 ---
