@@ -2,11 +2,15 @@
 Auth is a Discord Bot to verify user, giving server owner the ability to pull back members in case of deletetion or forgot login.
 
 # Getting Start
+### 1. Create a bot and copy TOKEN, CLIENT_ID and CLIENT_SECRET in [Discord Developer](https://discord.com/developers/applications)
+![Discord Token](https://cdn.discordapp.com/attachments/837865823225511946/1233736241376137216/getting_start_token.png?ex=662e2de9&is=662cdc69&hm=a1199ad3f800c61f5b6686a6279e93962db3046bd78e194d1643cbeafcf1c6df)
+![Discord Client](https://cdn.discordapp.com/attachments/837865823225511946/1233736241040850984/getting_start_client.png?ex=662e2de9&is=662cdc69&hm=31b6679d650abf2706fd9c1994e8844a91904c13cf33bfee527796ff105ee027)
+### 2. 
 
 ## Replit
 ### 1. Create a new project by importing from github
 ![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
-### 2. Add the information below in Secret
+### 2. Add the information below in Secrets
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
 ---
 ## Other Host
