@@ -31,23 +31,23 @@ Copy the code in Step 3\
 
 ### 5. Choose whcih host you are using
 - [Replit](#Replit)
-- [Other Host](#Other_Host)
+- [Other Host](#Other-Host)
 
 
 ## Replit
-### 1. Create a new project by importing from github
+### 6. Create a new project by importing from github
 ![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
-### 2. Add the information below in Secrets
+### 7. Add the information below in Secrets
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)\
 ---
 ## Other Host
-### 1. Clone the repository and install the dependencies
+### 6. Clone the repository and install the dependencies
 ```cmd
 git clone https://github.com/night0721/auth-bot.git
 cd auth-bot
 npm i
 ```
-### 2. Create a .env file and paste the code below, and replace XXX with valid value 
+### 7. Create a .env file and paste the code below, and replace XXX with valid value 
 ```Dotenv
 TOKEN=XXX
 CLIENT_ID=XXX
