@@ -8,10 +8,10 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 ### 2. Enable Intents as below
 ![Discord Intents](https://cdn.discordapp.com/attachments/837865823225511946/1233734791698972702/getting_start_intents.png?ex=662e2c90&is=662cdb10&hm=aa39490e9a2488806e8c809e207384b37207aaa6047367e436b5c89409cda19b)
 ### 3. Set the permissions as below (OAuth2 Tab)
-
 Tick these boxes in SCOPES:
 - bot
-- applications.commands\
+- applications.commands
+
 Tick these boxes in BOT PERMISSIONS:
 - Manage Server
 - Manage Roles
@@ -21,24 +21,21 @@ Tick these boxes in BOT PERMISSIONS:
 - Send Messages
 - Manage Messages
 - Read Message History
-
 Then, use the Link below to invite your bot into Servers.
 ### 4. Create a Database in [MongoDB](https://mongodb.com)
 Go to Overview > Data Services > Connect > Drivers.
 Copy the code in Step 3\
 ![Mongo](https://cdn.discordapp.com/attachments/837865823225511946/1233734792621723738/getting_start_mongo.png?ex=662e2c90&is=662cdb10&hm=27b9e02e2b8268d551010f0ed67536c74b49f012ca4c2ee330f6f7e591e6b7d2)
-
 ### 5. Choose whcih host you are using
 - [Replit](#Replit)
 - [Other Host](#Other-Host)
-
 
 ## Replit
 ### 6. Create a new project by importing from github
 ![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
 ### 7. Add the information below in Secrets
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
----
+
 ## Other Host
 ### 6. Clone the repository and install the dependencies
 ```cmd
