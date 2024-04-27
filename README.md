@@ -4,7 +4,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 # Getting Start
 
-### 1. Create a bot and copy TOKEN, CLIENT_ID and CLIENT_SECRET in [Discord Developer Portal](https://discord.com/developers/applications) (Bot Tab)
+### 1. Create a bot and copy TOKEN, CLIENT ID and CLIENT SECRET in [Discord Developer Portal](https://discord.com/developers/applications) (Bot Tab)
 ![Discord Token](https://cdn.discordapp.com/attachments/837865823225511946/1233736241376137216/getting_start_token.png?ex=662e2de9&is=662cdc69&hm=a1199ad3f800c61f5b6686a6279e93962db3046bd78e194d1643cbeafcf1c6df)
 ![Discord Client](https://cdn.discordapp.com/attachments/837865823225511946/1233736241040850984/getting_start_client.png?ex=662e2de9&is=662cdc69&hm=31b6679d650abf2706fd9c1994e8844a91904c13cf33bfee527796ff105ee027)
 ### 2. Enable Intents as below
