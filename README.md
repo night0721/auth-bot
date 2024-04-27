@@ -21,7 +21,7 @@ Tick these boxes in BOT PERMISSIONS:
 - Read Messages/View Channels
 - Send Messages
 - Manage Messages
--Read Message History
+- Read Message History
 
 Then, use the Link below to invite your bot into Servers.
 ### 4. Create a Database in [MongoDB](https://mongodb.com)
