@@ -58,6 +58,9 @@ api=https://api.night0721.xyz
 ![Dotenv File](https://cdn.discordapp.com/attachments/837865823225511946/1233738177693352017/getting_start_dotenv.png?ex=662e2fb7&is=662cde37&hm=f62ef3ed8f6920da5acba8bebe6e1e0388def9b1623ffcf573455bc1011d5533)
 
 ### 8. Run the server, and now enjoy!
+```cmd
+npm run dev
+```
 Join Our Discord Server for update's news!
 
 ## Support
