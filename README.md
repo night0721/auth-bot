@@ -13,6 +13,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 ### 2. Paste your URL to Redirects (OAuth2 Tab)
 > [!TIP]
 > The URL is formed by (http/https)://(domain)/api/auth/discord/redirect
+
 ![Discord OAuth2 Redirect](https://cdn.discordapp.com/attachments/837865823225511946/1233831446892908555/getting_start_oauth2_redirect.png?ex=662e8694&is=662d3514&hm=920470adcbac743c5429ac552808aea9412441d5494db9d6aa82f2517ea9a474)
 ### 3. Enable Intents as below
 ![Discord Intents](https://cdn.discordapp.com/attachments/837865823225511946/1233734791698972702/getting_start_intents.png?ex=662e2c90&is=662cdb10&hm=aa39490e9a2488806e8c809e207384b37207aaa6047367e436b5c89409cda19b)
@@ -32,7 +33,7 @@ Tick these boxes in BOT PERMISSIONS:
 - Read Message History
 
 > [!IMPORTANT]
-> Please make sure your bot has enabled Intents mentioned above and permissions, or else, some functions may not work
+> Please make sure your bot has enabled Intents and permissions mentioned above, or else, some functions may not work
 
 Then, use the Link below to invite your bot to Servers.
 ### 5. Create a Database in [MongoDB](https://mongodb.com)
@@ -46,7 +47,7 @@ Copy the code in Step 3\
 ## Replit
 ### 7. Create a new project by importing from github
 ![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
-### 8. Add the information you have copied above in Secrets
+### 8. Add the information you have copied above to Secrets
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
 
 ## Other Host
@@ -54,7 +55,7 @@ Copy the code in Step 3\
 ```cmd
 git clone https://github.com/night0721/auth-bot.git
 cd auth-bot
-npm i
+npm install
 ```
 ### 8. Create a .env file and paste the code below, replace XXX with the value you have copied above
 ```Dotenv
