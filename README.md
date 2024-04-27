@@ -3,23 +3,25 @@
 Auth is a Discord Bot to verify user, giving server owner the ability to pull back members in case of deletetion or forgot login.
 ## Getting Started
 
-To get started with the project, simply clone the repository and install the dependencies
-Create a **.env** file or add in **Secret** if you are using [Replit](https://replit.com)
+1. Clone the repository and install the dependencies
+```cmd
+git clone https://github.com/night0721/auth-bot.git
+cd auth-bot
+npm i
+```
+2. Create a **.env** file and paste the folling code or add in **Secret** if you are using [Replit](https://replit.com)
 ```Dotenv
 TOKEN=XXX
-MONGO=mongodb+srv://XXX
 CLIENT_ID=XXX
 CLIENT_SECRET=XXX
+MONGO=mongodb+srv://XXX
 CALLBACK_URL=http://XXX.XXX/api/auth/discord/redirect
-api=https://api.night0721.xyz
 PORT=XXX
+api=https://api.night0721.xyz
 ```
-```cmd
-git clone https://github.com/night0721/Auth.git
-cd Auth
-npm i
-npm run dev
-```
+![Dotenv File](https://cdn.discordapp.com/attachments/837865823225511946/1233738177693352017/getting_start_dotenv.png)
+![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png)
+
 
 ## Support
 
