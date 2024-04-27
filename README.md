@@ -24,7 +24,7 @@ Tick these boxes in BOT PERMISSIONS:
 - Manage Messages
 - Read Message History
 
-Then, use the Link below to invite your bot into Servers.
+Then, use the Link below to invite your bot to Servers.
 ### 4. Create a Database in [MongoDB](https://mongodb.com)
 Go to Overview > Data Services > Connect > Drivers.
 Copy the code in Step 3\
@@ -46,7 +46,7 @@ git clone https://github.com/night0721/auth-bot.git
 cd auth-bot
 npm i
 ```
-### 7. Create a .env file and paste the code below, and replace XXX with valid value 
+### 7. Create a .env file and paste the code below, and replace XXX with a valid value 
 ```Dotenv
 TOKEN=XXX
 CLIENT_ID=XXX
