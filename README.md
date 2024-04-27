@@ -5,7 +5,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 To get started with the project, simply clone the repository and install the dependencies
 Create a **.env** file or add in **Secret** if you are using [Replit](https://replit.com)
-```
+```Dotenv
 TOKEN=XXX
 MONGO=mongodb+srv://XXX
 CLIENT_ID=XXX
