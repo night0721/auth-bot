@@ -1,7 +1,9 @@
 # Auth
+
 Auth is a Discord Bot to verify user, giving server owner the ability to pull back members in case of deletetion or forgot login.
 
 # Getting Start
+
 ### 1. Create a bot and copy TOKEN, CLIENT_ID and CLIENT_SECRET in [Discord Developer Portal](https://discord.com/developers/applications) (Bot Tab)
 ![Discord Token](https://cdn.discordapp.com/attachments/837865823225511946/1233736241376137216/getting_start_token.png?ex=662e2de9&is=662cdc69&hm=a1199ad3f800c61f5b6686a6279e93962db3046bd78e194d1643cbeafcf1c6df)
 ![Discord Client](https://cdn.discordapp.com/attachments/837865823225511946/1233736241040850984/getting_start_client.png?ex=662e2de9&is=662cdc69&hm=31b6679d650abf2706fd9c1994e8844a91904c13cf33bfee527796ff105ee027)
@@ -56,6 +58,7 @@ api=https://api.night0721.xyz
 ![Dotenv File](https://cdn.discordapp.com/attachments/837865823225511946/1233738177693352017/getting_start_dotenv.png?ex=662e2fb7&is=662cde37&hm=f62ef3ed8f6920da5acba8bebe6e1e0388def9b1623ffcf573455bc1011d5533)
 
 ### 8. Run the server, and now enjoy!
+Join Our Discord Server for updates!
 
 ## Support
 
