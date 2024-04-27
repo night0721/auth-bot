@@ -5,7 +5,7 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 ## Replit
 ### 1. Create a new project by importing from github
-![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233747226040471615/getting_start_import.png?ex=662e3824&is=662ce6a4&hm=3d22e6a762c8c5f70f35d430ded0cab9c84cabab94715442348b117cbe9fb77c)
+![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
 ### 2. Add the information below in Secret
 ![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
 ---
