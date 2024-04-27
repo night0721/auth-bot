@@ -23,7 +23,7 @@ Tick these boxes in BOT PERMISSIONS:
 - Send Messages
 - Manage Messages
 - Read Message History
-- 
+
 Then, use the Link below to invite your bot into Servers.
 ### 4. Create a Database in [MongoDB](https://mongodb.com)
 Go to Overview > Data Services > Connect > Drivers.
