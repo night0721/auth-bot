@@ -6,8 +6,8 @@ Auth is a Discord Bot to verify user, giving server owner the ability to pull ba
 
 ### 1. Create a bot in [Discord Developer Portal](https://discord.com/developers/applications)
 Copy TOKEN, CLIENT ID and CLIENT SECRET (Bot Tab, OAuth2 Tab)\
-![Discord Token](https://cdn.discordapp.com/attachments/837865823225511946/1233736241376137216/getting_start_token.png?ex=662e2de9&is=662cdc69&hm=a1199ad3f800c61f5b6686a6279e93962db3046bd78e194d1643cbeafcf1c6df)
-![Discord Client](https://cdn.discordapp.com/attachments/837865823225511946/1233736241040850984/getting_start_client.png?ex=662e2de9&is=662cdc69&hm=31b6679d650abf2706fd9c1994e8844a91904c13cf33bfee527796ff105ee027)
+![Discord Token](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/jyu31kgp.png)
+![Discord Client](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/ra8aqbp3.png)
 
 > [!CAUTION]
 > Please keep the TOKEN and CLIENT SECRET personally, **DO NOT** share to the others.
@@ -15,9 +15,9 @@ Copy TOKEN, CLIENT ID and CLIENT SECRET (Bot Tab, OAuth2 Tab)\
 > [!TIP]
 > The URL is formed by (http/https)://(domain)/api/auth/discord/redirect
 
-![Discord OAuth2 Redirect](https://cdn.discordapp.com/attachments/837865823225511946/1233831446892908555/getting_start_oauth2_redirect.png?ex=662e8694&is=662d3514&hm=920470adcbac743c5429ac552808aea9412441d5494db9d6aa82f2517ea9a474)
+![Discord OAuth2 Redirect](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/wgpvqcmv.png)
 ### 3. Enable Intents
-![Discord Intents](https://cdn.discordapp.com/attachments/837865823225511946/1233734791698972702/getting_start_intents.png?ex=662e2c90&is=662cdb10&hm=aa39490e9a2488806e8c809e207384b37207aaa6047367e436b5c89409cda19b)
+![Discord Intents](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/umxiwuxl.png)
 ### 4. Generate Bot Invite URL (OAuth2 Tab)
 Tick these boxes in SCOPES:
 - bot
@@ -41,16 +41,16 @@ Then, use the link at the bottom to invite your bot to Servers.
 Create a [Mongo Database](https://mongodb.com)\
 Go to Overview > Data Services > Connect > Drivers.\
 Copy the code in Step 3\
-![Mongo](https://cdn.discordapp.com/attachments/837865823225511946/1233734792621723738/getting_start_mongo.png?ex=662e2c90&is=662cdb10&hm=27b9e02e2b8268d551010f0ed67536c74b49f012ca4c2ee330f6f7e591e6b7d2)
+![Mongo](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/sowcg1ll.png)
 ### 6. Choose the host you are using
 - [Replit](#Replit)
 - [Other Host](#Other-Host)
 
 ## Replit
 ### 7. Create a new project by importing from github
-![Replit Import](https://cdn.discordapp.com/attachments/837865823225511946/1233748914897686528/getting_start_import.png?ex=662e39b7&is=662ce837&hm=1823173d343f2d963a312398f099f21e4413a68aea718e8c6cd63c029e80577d)
+![Replit Import](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/xobwnpi2.png)
 ### 8. Paste the information you have copied in (1, 2, 5) to Secrets
-![Replit Secret](https://cdn.discordapp.com/attachments/837865823225511946/1233737177112772608/getting_start_replit_secret.png?ex=662e2ec8&is=662cdd48&hm=7d4b9f1d678b89bfc37cb1f865c270919710e5fec590a75930948f0df420710f)
+![Replit Secret](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/fsbokqx9.png)
 
 ## Other Host
 ### 7. Clone the repository and install the dependencies
@@ -70,7 +70,7 @@ CALLBACK_URL=http://XXX.XXX/api/auth/discord/redirect
 PORT=XXX
 api=https://api.night0721.xyz
 ```
-![Dotenv File](https://cdn.discordapp.com/attachments/837865823225511946/1233738177693352017/getting_start_dotenv.png?ex=662e2fb7&is=662cde37&hm=f62ef3ed8f6920da5acba8bebe6e1e0388def9b1623ffcf573455bc1011d5533)
+![Dotenv File](https://r2.e-z.host/3c62bb3a-a8a9-43f6-afd6-553646f51dc4/3zfp61oy.png)
 
 ### 9. Run the server, and now enjoy!
 ```cmd
